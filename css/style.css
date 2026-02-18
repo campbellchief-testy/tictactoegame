@@ -1,0 +1,27 @@
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {vertical-align:middle !important;}
+/* ---------------------- CMS Resets ----------------------- */
+body {
+	background-image:none;
+	color:#000;
+}
+
+table.tictactoe {
+	padding-top: 1em;
+	border: 1px solid black;
+	min-width: 350px;
+}
+
+td.tictactoe {
+	border: 1px solid black;
+	height: 2.2em;
+	height: 2.2em;
+}
+
+.error {
+	color: red;
+}
+
+.info {
+	color: green;
+	padding-bottom: 2px;
+}
